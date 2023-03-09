@@ -42,24 +42,16 @@
  <hr/>
 </div>
 
-<div>
+<div align ="center">
 
    ####  💙 SSAFY 8th
    ####  🇰🇷 Based on Gwanju,Korea
-  <table>
-  <tr>
-    <td>    
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=parkssuu2)](https://solved.ac/parkssuu2)
-    </td>
-
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthwan27&layout=compact)](https://github.com/pthwan27/github-readme-stats)
-    </td>
-    <td>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthwan27&show_icons=true&theme=highconstrast)
-    </td>
-  </tr>
-  </table>
+   
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=parkssuu2)](https://solved.ac/parkssuu2) 
+   <br/><br/>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthwan27&show_icons=true&theme=highconstrast)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthwan27&layout=compact)](https://github.com/pthwan27/github-readme-stats)   
+ 
 </div>
 
 <div align="center">
