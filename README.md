@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?&color=gradient&height=280&text=pthwan27&animation=fadeIn&fontAlignY=40&type=wave)
 
 
-####  Hello~ My name is taehwan park. 😎
+##  Hello~ My name is taehwan park. 😎
 
 <br/>
   
-####  :clipboard: Once I've Used 
+###  :clipboard: Once I've Used 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -31,7 +31,7 @@
 
 <br/>
 
-#### :pencil2: Studying
+### :pencil2: Studying
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -43,9 +43,10 @@
 </div>
 
 <div align ="center">
-
-   ####  💙 SSAFY 8th
-   ####  🇰🇷 Based on Gwanju,Korea
+  
+   ###  💙 SSAFY 8th
+   ###  🇰🇷 Based on Gwanju,Korea
+  <br/>
    
    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=parkssuu2)](https://solved.ac/parkssuu2) 
    <br/><br/>
