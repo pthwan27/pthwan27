@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?&color=gradient&height=280&text=pthwan27&animation=fadeIn&fontAlignY=40&type=wave)
 
-
-##  Hello~ My name is taehwan park. 😎
-
+## Hi~ My name is Taehwan Park 😎 
 <br/>
   
 ###  :clipboard: Once I've Used 
